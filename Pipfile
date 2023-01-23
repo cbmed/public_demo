@@ -11,6 +11,9 @@ openpyxl = "*"
 matplotlib = "*"
 streamlit = "*"
 sqlalchemy = "*"
+sycopg2 = "==2.7.2"
+matplotlib-venn = "*"
+venn = "*"
 
 [dev-packages]
 
