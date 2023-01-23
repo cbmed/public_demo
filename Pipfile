@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "1.23.5"
+pyyaml = "*"
+pandas = "*"
+openpyxl = "*"
+matplotlib = "*"
+streamlit = "*"
+sqlalchemy = "*"
 streamlit = "*"
 
 [dev-packages]
