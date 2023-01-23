@@ -11,9 +11,14 @@ openpyxl = "*"
 matplotlib = "*"
 streamlit = "*"
 sqlalchemy = "*"
-psycopg2 = "==2.7.2"
-# matplotlib-venn = "*"
-# venn = "*"
+# psycopg2 = "==2.7.2"
+matplotlib-venn = "*"
+venn = "*"
+mysql-connector-python = "*"
+plotly = "*"
+kaleido = "*"
+statsmodels = "*"
+requests = "*"
 
 [dev-packages]
 
